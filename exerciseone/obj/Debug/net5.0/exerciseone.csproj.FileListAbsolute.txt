@@ -1,0 +1,16 @@
+C:\Users\Ajayi\Documents\csharp\exerciseone\bin\Debug\net5.0\exerciseone.exe
+C:\Users\Ajayi\Documents\csharp\exerciseone\bin\Debug\net5.0\exerciseone.deps.json
+C:\Users\Ajayi\Documents\csharp\exerciseone\bin\Debug\net5.0\exerciseone.runtimeconfig.json
+C:\Users\Ajayi\Documents\csharp\exerciseone\bin\Debug\net5.0\exerciseone.runtimeconfig.dev.json
+C:\Users\Ajayi\Documents\csharp\exerciseone\bin\Debug\net5.0\exerciseone.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\bin\Debug\net5.0\ref\exerciseone.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\bin\Debug\net5.0\exerciseone.pdb
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.csprojAssemblyReference.cache
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.AssemblyInfoInputs.cache
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.AssemblyInfo.cs
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.csproj.CoreCompileInputs.cache
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\ref\exerciseone.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.pdb
+C:\Users\Ajayi\Documents\csharp\exerciseone\obj\Debug\net5.0\exerciseone.genruntimeconfig.cache

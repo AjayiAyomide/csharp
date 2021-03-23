@@ -1,0 +1,16 @@
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.csprojAssemblyReference.cache
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.AssemblyInfoInputs.cache
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.AssemblyInfo.cs
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.csproj.CoreCompileInputs.cache
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\bin\Debug\net5.0\customer.exe
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\bin\Debug\net5.0\customer.deps.json
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\bin\Debug\net5.0\customer.runtimeconfig.json
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\bin\Debug\net5.0\customer.runtimeconfig.dev.json
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\bin\Debug\net5.0\customer.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\bin\Debug\net5.0\ref\customer.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\bin\Debug\net5.0\customer.pdb
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\ref\customer.dll
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.pdb
+C:\Users\Ajayi\Documents\csharp\exerciseone\customer\obj\Debug\net5.0\customer.genruntimeconfig.cache

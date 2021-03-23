@@ -1,0 +1,16 @@
+C:\Users\Ajayi\Documents\csharp\OOP\passage\bin\Debug\net5.0\passage.exe
+C:\Users\Ajayi\Documents\csharp\OOP\passage\bin\Debug\net5.0\passage.deps.json
+C:\Users\Ajayi\Documents\csharp\OOP\passage\bin\Debug\net5.0\passage.runtimeconfig.json
+C:\Users\Ajayi\Documents\csharp\OOP\passage\bin\Debug\net5.0\passage.runtimeconfig.dev.json
+C:\Users\Ajayi\Documents\csharp\OOP\passage\bin\Debug\net5.0\passage.dll
+C:\Users\Ajayi\Documents\csharp\OOP\passage\bin\Debug\net5.0\ref\passage.dll
+C:\Users\Ajayi\Documents\csharp\OOP\passage\bin\Debug\net5.0\passage.pdb
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.csprojAssemblyReference.cache
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.AssemblyInfoInputs.cache
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.AssemblyInfo.cs
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.csproj.CoreCompileInputs.cache
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.dll
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\ref\passage.dll
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.pdb
+C:\Users\Ajayi\Documents\csharp\OOP\passage\obj\Debug\net5.0\passage.genruntimeconfig.cache
